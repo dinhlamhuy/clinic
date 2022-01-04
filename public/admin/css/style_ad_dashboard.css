@@ -1,0 +1,39 @@
+.tongbenhnhan{
+    border-radius: 2px;
+    height: 100px;
+    background-color: #f2a490; 
+    background-image: linear-gradient(#f2a490, #478ba2);
+    color: white;
+}
+
+.doanhthukham{
+    border-radius: 2px;
+    height: 100px;
+    background-color: #f2a490; 
+    background-image: linear-gradient(#f2a490, #478ba2);
+    color: white;
+}
+
+.doanhthucls{
+    border-radius: 2px;
+    height: 100px;
+    background-color: #f2a490; 
+    background-image: linear-gradient(#f2a490, #478ba2);
+    color: white;
+}
+.thongkebntn{
+    border-radius: 2px;
+    height: 100px;
+    background-color: #eba49c; 
+    background-image: linear-gradient(#eba49c, #5874dc);
+    color: white;
+}
+
+.luotkhamngay{
+    border-radius: 2px;
+    height: 100px;
+    background-color: #f2a490; 
+    background-image: linear-gradient(#f2a490, #478ba2);
+    color: white;
+}
+

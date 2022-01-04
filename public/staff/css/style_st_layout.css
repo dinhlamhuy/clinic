@@ -1,0 +1,31 @@
+.navs{
+    background-color: #023e8a;
+}
+.navs1{
+    background-color: #0096c7;
+    height: 28px;
+    color: white;
+}
+.navs1 .userdn a{
+    color: white;
+}
+
+.link1{
+    color:white;
+    font-weight: bold;
+}
+.link1:hover{
+    color: red;
+    background-color: #ccd5dc;
+}
+
+.highlight{
+    background-color: #f8cada;
+}
+.highlight>a{
+    color: blue;
+}
+.tbl_header{
+    background-color: #a8dadc;
+}
+

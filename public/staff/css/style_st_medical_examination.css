@@ -1,0 +1,18 @@
+#waitting_list , #appointment_schedule, #prescription_BHYT, #prescription{
+    font-weight: bold;
+}
+.frames_medical_examination{
+    background-color: #caf0f8;  
+}
+.tbl_header{
+    background-color: #a8dadc;
+}
+.tbl_donthuoc{
+    border: 1px solid rgb(90, 230, 206);
+}
+.tbl_donthuoc,th{
+    border: 1px solid rgb(90, 230, 206);
+}
+.tbl_donthuoc,td{
+    border: 1px solid rgb(90, 230, 206);
+}

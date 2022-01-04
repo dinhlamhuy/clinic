@@ -1,0 +1,21 @@
+
+#nav-receive, #list_receive, #list_appointment_schedule{
+    font-weight: bold;
+}
+.star{
+    color: red;
+    font-weight: bold;
+}
+.frames_receive{
+    background-color: #caf0f8;  
+    
+}
+.phancachngang{
+    width: 100%;
+    color: #0077b6;
+}
+
+.link2{
+    font-weight: bold;
+    
+}

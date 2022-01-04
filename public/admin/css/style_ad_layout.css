@@ -1,0 +1,28 @@
+.admin_titile{
+    font-weight: bold;
+    font-size: 35px;
+}
+
+.tbl_header{
+    background-color: #a8dadc;
+}
+.modal-header{
+    background-color:#0077b6;
+}
+.modal-title{
+    font-weight: 550 !important;
+    color: white;
+}
+.close{
+    color: white;
+    font-weight: 550 !important;
+}
+.select2{
+    width: 100% !important; 
+    padding-bottom: 0px !important;
+}
+
+.logo{
+    font-size: 27px !important;
+    padding:10px 0 0 25px !important;
+}
